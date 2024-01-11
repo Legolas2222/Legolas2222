@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legolas2222
 - 👀 I’m interested in Physics, Math, Coding, Philosophy, Geopolitics, Medicine, Engineering (quite a lot of things)
-- 🌱 I’m currently learning ASP.NET Core 
+- 🌱 I’m currently learning ASP.NET Core and Fullstack WebDev
 - 💞️ I’m looking to collaborate on ... (i am a beginner so i think it would be better not to judge my skills ;))
 
 <!---
