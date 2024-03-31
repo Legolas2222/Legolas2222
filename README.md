@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Legolas2222
-- 👀 I’m interested in Physics, Math, Coding, Philosophy, Geopolitics, Medicine, Engineering (quite a lot of things)
-- 🌱 I’m currently learning ASP.NET Core and Fullstack WebDev
-- 💞️ I’m looking to collaborate on ... (i am a beginner so i think it would be better not to judge my skills ;))
+Hi,I'm Legolas, a student learning webdev
 
-<!---
-Legolas2222/Legolas2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Personal Stuff:**
+
+- 🔭 I’m currently in the 11th grade
+- 🌱 I’m currently learning .NET and fullstack development
+- 🌄 In the future I'll hopefully be able to dive into ML and AI
+- 📚 Other hobbies (and things I want to improve upon) include: Reading, Scuba Diving, Drawing, casually learning some more languages
+- 👂 I'm a native German speaker, with good English and basic Spanish and French skills 
