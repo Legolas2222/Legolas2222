@@ -1,4 +1,4 @@
-Hi,I'm Legolas, a student learning webdev
+Hi, I'm Legolas, a student learning webdev
 
 **Personal Stuff:**
 
